@@ -1,0 +1,38 @@
+html { 
+	font-family: 'Slabo 27px', serif;
+	background-color: #283E56;
+ }
+body { 
+	width: 600px; 
+	margin: 10px auto; 
+	padding: 10px 10px 10p 10px;
+	border: 3px groove #6AA1E0; }
+
+a { 
+	color: white; }
+h1 { 
+ 	color: #F59D18;
+ 	font-size: 60px;
+ 	text-align: center;
+ 	padding-bottom: 0;
+ 	margin: 5px 5px;
+  }
+h3 { 
+ 	font-size: 50px;
+ 	text-align: center;
+ 	margin: 0;
+ 	padding: 10px 0 10px 0;
+ 	color:  #6AA1E0;
+
+	letter-spacing: 2px;} 
+
+img, button  { 
+	display: block;
+	margin: 0 auto; }
+
+p,li { 
+ 	color:#B8A78E;
+ 	padding-left: 10px;
+ 	font-size: 15px;
+ 	text-align: left; 
+ 	letter-spacing: 1px; }
